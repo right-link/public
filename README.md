@@ -1,5 +1,4 @@
 ### Welcome to the Right.Link, engineers build our foundation, and our mission revolves around serving our customers with excellence. Our unwavering commitment is to deliver top-notch services that exceed expectations.
-![image](https://github.com/right-link/public/assets/6301866/88b3c9e6-6383-41c3-b8a3-78df2398d584)
 
 # Problem-solving is at the heart of what we do. Our team of highly skilled engineers thrives on tackling complex challenges, finding innovative solutions, and delivering results that make a difference.
 
