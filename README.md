@@ -9,7 +9,7 @@
 
 
 #### <br>MVP development on your terms:
-<be> - Fixed budget
+<br> - Fixed budget
 <br>Timeline
 <br>Focus
 <br>Your time and ideas are precious. We’ll take care of the rest.
