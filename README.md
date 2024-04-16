@@ -14,10 +14,10 @@ Problem-solving is at the heart of what we do. Our team of highly skilled engine
 
 But that’s not all - we’re excited to introduce our new [MVP Development Feature](http://mvp.right.link/), allowing us to launch products for our clients quickly and efficiently.
 
+#### Your time and ideas are precious. We’ll take care of the rest.
 #### <br>MVP development on your terms:
 - Fixed budget
 - Timeline
 - Focus
-<br>Your time and ideas are precious. We’ll take care of the rest.
 
 #### When you choose [Right.Link](https://right.link/), you can trust that you are partnering with a company that understands your goals and is dedicated to providing exceptional solutions. We prioritize customer satisfaction, and our passion for engineering excellence drives us to deliver value at every step.
