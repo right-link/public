@@ -14,8 +14,7 @@ Problem-solving is at the heart of what we do. Our team of highly skilled engine
 
 But that’s not all - we’re excited to introduce our new [MVP Development Feature](http://mvp.right.link/), allowing us to launch products for our clients quickly and efficiently.
 
-#### Your time and ideas are precious. We’ll take care of the rest.
-#### <br>MVP development on your terms:
+#### Your time and ideas are precious. We’ll take care of the rest. MVP development on your terms:
 - Fixed budget
 - Timeline
 - Focus
