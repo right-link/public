@@ -2,13 +2,13 @@
 
 #### Problem-solving is at the heart of what we do. Our team of highly skilled engineers thrives on tackling complex challenges, finding innovative solutions, and delivering results that make a difference.
 
-#### We specialize in the development of web and mobile applications.
-<br>We develop **CRM, CMS, ERP, Saas, PaaS, e-commerce, booking platforms** and **other specialized services.**
-<br>Moreover, we have experience with **AI, with its integration of implementations and beyond.**
-<br>But that’s not all - we’re excited to introduce our new [MVP Development Feature](http://mvp.right.link/), allowing us to **launch products for our clients quickly and efficiently.**
+### We specialize in the development of web and mobile applications.
+- <br>We develop **CRM, CMS, ERP, Saas, PaaS, e-commerce, booking platforms** and **other specialized services.**
+- <br>Moreover, we have experience with **AI, with its integration of implementations and beyond.**
+- <br>But that’s not all - we’re excited to introduce our new [MVP Development Feature](http://mvp.right.link/), allowing us to **launch products for our clients quickly and efficiently.**
 
 
-#### <br>MVP development on your terms:
+### <br>MVP development on your terms:
 <br> - Fixed budget
 <br>Timeline
 <br>Focus
