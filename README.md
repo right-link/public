@@ -1,4 +1,5 @@
-![3 (2)](https://github.com/right-link/public/assets/6301866/95452901-78a3-4ff2-8862-a740b8974b8c)
+
+![Right Link Header Banner](https://github.com/right-link/public/assets/6301866/5ce78386-989d-4e2f-baa1-cc429ae424bd)
 
 #### Welcome to the [Right.Link](https://right.link/), our company is built by engineers, and our mission centers on delivering exceptional service to our customers. We are dedicated to providing top-tier solutions that consistently surpass expectations.
 
