@@ -1,6 +1,6 @@
-### Welcome to the Right.Link, engineers build our foundation, and our mission revolves around serving our customers with excellence. Our unwavering commitment is to deliver top-notch services that exceed expectations.
+Welcome to the Right.Link, engineers build our foundation, and our mission revolves around serving our customers with excellence. Our unwavering commitment is to deliver top-notch services that exceed expectations.
 
-# Problem-solving is at the heart of what we do. Our team of highly skilled engineers thrives on tackling complex challenges, finding innovative solutions, and delivering results that make a difference.
+Problem-solving is at the heart of what we do. Our team of highly skilled engineers thrives on tackling complex challenges, finding innovative solutions, and delivering results that make a difference.
 
 We specialize in the development of web and mobile applications.
 We develop CRM, CMS, ERP, Saas, PaaS, e-commerce і booking platforms and other specialized services.
