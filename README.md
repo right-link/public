@@ -16,20 +16,4 @@ When you choose Right.Link, you can trust that you are partnering with a company
 
 At our core, we excel in Full-Stack web development, leveraging a wide array of cutting-edge technologies and tools. Our expertise empowers us to create robust and seamless solutions for our clients.
 
-Here is a brief overview of the technologies we use:
-Front-end:
-We harness the power of Vue2/Vue3, Nuxt, Vuetify, and Tailwind to create dynamic and visually stunning user interfaces.
-We are well-versed in HTML/CSS and their preprocessors, delivering visually stunning and responsive experiences.
-
-Node.js frameworks:
-We specialize in Nest.js, AdonisJS, and Express.js, building scalable and efficient back-end solutions to meet diverse business needs.
-PHP frameworks and CMS:
-
-With expertise in Laravel and its ecosystem tools, we develop robust and customizable applications.
-We also work with WordPress and Opencart for tailored solutions.
-Database:
-Our strong command over databases like MySQL, PostgreSQL, MongoDB, Redis, and RabbitMQ enables us to design efficient data storage systems.
-
-Tools:
-We utilize Git, Docker, Jira/Trello, and design tools like Figma/Photoshop for seamless collaboration and visually appealing interfaces.
 Choose Right.Link for top-quality services backed by expertise you can rely on.
