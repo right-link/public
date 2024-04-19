@@ -23,7 +23,7 @@ But that’s not all - we’re excited to introduce our new [MVP Development Fea
 
 * * *
 
-# Our Projects
+![our-projects](https://github.com/right-link/public/assets/6301866/00aee702-14ef-4308-92b3-7c1af2bd06ea)
 
 ### [Cardwiz](https://cardwiz.com/)
 This is a website designed to search and compare credit cards. The project aimed to create a useful tool to help people make informed decisions about choosing credit cards that meet their needs and financial goals.
