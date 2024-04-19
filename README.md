@@ -1,5 +1,5 @@
+![right-link-banner-new](https://github.com/right-link/public/assets/6301866/0971b409-93b6-4cfe-9618-dec07c3f3eb8)
 
-![Right Link Header Banner](https://github.com/right-link/public/assets/6301866/5ce78386-989d-4e2f-baa1-cc429ae424bd)
 
 Welcome to the [Right.Link](https://right.link/), our company is built by engineers, and our mission centers on delivering exceptional service to our customers. We are dedicated to providing top-tier solutions that consistently surpass expectations.
 
